@@ -1,0 +1,83 @@
+
+body{
+	background: #000;
+}
+.barra ul {
+	list-style: none;
+	font-family: "georgia";
+}
+	
+.barra{
+	background: #fff;
+}
+.barra ul li {
+	display: inline-block;
+}
+ .barra ul li a{
+ 	color: black;
+ 	display: block;
+ 	padding: 20px 90px;
+ 	text-decoration: none;
+
+ } 
+  .barra ul li a:hover{
+ 	background-color: #000;
+
+ } 
+ p a {
+ 	list-style: none;
+ 	background: #fff;
+ 	text-decoration: none;
+ 	font-family: "arial";
+ 	padding:15px; 
+ 	margin:20px;
+ }
+ .q{
+ 	background: #fff;
+ 	font-family: "georgia";  
+ }
+ .h{
+ 	background: #fff;
+ }
+.inf{
+	background: #fff;
+	margin: 50px;
+	padding: 20px;
+}
+.as{
+	background: #fff;
+	text-decoration: none;
+    font-family:"georgia" ;
+    margin: 20px;
+	padding: 15px;
+}
+    
+    .loc{
+    	background: #fff;
+    }
+    .ah{
+    	background: #fff;
+
+    }
+.b{
+	background: #fff;
+}
+.c{
+	background: #fff;
+
+}
+.d{
+	background: #fff;
+}
+.e{
+	background: #fff;
+}
+.zapa{
+	background: #fff;
+	padding: 20px;
+    margin:10px;
+}
+.comprar{
+	background: #fff;
+	text-decoration: none;
+}
